@@ -1,2 +1,0 @@
-main v0.2
-main v1.0
